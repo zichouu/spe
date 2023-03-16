@@ -1,7 +1,3 @@
----
-sidebar: false
----
-
 # Markdown 演示
 
 ## 介绍
