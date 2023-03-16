@@ -30,6 +30,10 @@ module.exports = {
                                 text: 'zichou.pages.dev',
                                 link: 'https://zichou.pages.dev',
                             },
+                            {
+                                text: 'zdocs.pages.dev',
+                                link: 'https://zichou.pages.dev',
+                            },
                         ]
                     },
                     {
