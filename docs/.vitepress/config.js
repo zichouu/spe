@@ -23,14 +23,14 @@ module.exports = {
             {text: '链接',items: [
                     {
                         text: '我的网站', items: [
-                            {text: 'zichou.pages.dev', link: 'https://zichou.pages.dev'},
+                            {text: 'zichou.pages.dev', link: 'https://zichou.pages.dev/wftime'},
                             {text: 'zdocs.pages.dev', link: 'https://zdocs.pages.dev'},
                         ]
                     },
                     {
                         text: '开发', items: [
                             {text: 'Markdown 演示', link: '/md/'},
-                            {text: 'VitePress 文档', link: 'https://vitepress.vuejs.org/'},
+                            {text: 'VitePress 文档', link: 'https://vitepress.dev/reference/site-config'},
                             {text: 'Visual Studio Code', link: 'https://code.visualstudio.com/'},
                             {text: 'Node.js', link: 'https://nodejs.org/zh-cn/'},
                         ],
