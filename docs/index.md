@@ -5,7 +5,7 @@ title: '钢铁夜灵'
 hero:
   name: 钢铁夜灵
   text: Steel Path Eidolon
-  tagline: spe.pages.dev
+  tagline: spe.zichou.eu.org
   image:
     src: logo.png
     alt: 图片

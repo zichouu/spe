@@ -23,8 +23,8 @@ module.exports = {
             {text: '链接',items: [
                     {
                         text: '我的网站', items: [
-                            {text: 'zichou.pages.dev', link: 'https://zichou.pages.dev/wftime'},
-                            {text: 'zdocs.pages.dev', link: 'https://zdocs.pages.dev'},
+                            {text: 'zichou.eu.org', link: 'https://zichou.eu.org/wftime'},
+                            {text: 'docs.zichou.eu.org', link: 'https://docs.zichou.eu.org'},
                         ]
                     },
                     {
