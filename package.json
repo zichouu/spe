@@ -10,7 +10,9 @@
   "scripts": {
     "docs:dev": "vitepress dev docs --host",
     "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress serve docs",
-    "deploy": "wrangler pages publish docs/.vitepress/dist"
-  }
+    "docs:preview": "vitepress preview docs",
+    "deploy": "wrangler pages publish docs/.vitepress/dist",
+    "i": "yarn install",
+    "update": "yarn upgrade"
+}
 }
