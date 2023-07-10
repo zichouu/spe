@@ -19,7 +19,7 @@ module.exports = {
         nav: [
             {text: '首页', link: '/'},
             {text: '开始', link: '/start/jianjie'},
-            {text: '结算速度优化',link: '/wfhosts/'},
+            {text: '结算速度优化',link: 'd/wfhosts'},
             {text: '链接',items: [
                     {
                         text: '我的网站', items: [
@@ -69,12 +69,13 @@ module.exports = {
             {
                 text: '推荐文章',
                 items: [ 
-                    {text: '结算速度优化', link: '/wfhosts/'},
+                    {text: '三傻注意事项', link: 'd/warning'},
+                    {text: '结算速度优化', link: 'd/wfhosts'},
                 ],
             },
         ],
         editLink: {
-            // pattern: 'https://github.com/user/project/edit/main/docs/:path',
+            pattern: 'https://github.com/zichouu/spe/edit/main/docs/:path',
             text: '在 GitHub 上编辑此页面'
         },
         algolia: {
