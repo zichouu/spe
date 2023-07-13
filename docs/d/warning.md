@@ -12,4 +12,6 @@
 
 解决方法二: 空档期避开检测
 
-[Video](https://www.bilibili.com/video/BV1A5411d7Ms?t=229)
+::: details 视频
+<iframe src="//player.bilibili.com/player.html?aid=468791679&bvid=BV1A5411d7Ms&cid=711781756&page=1&autoplay=0&t=229" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="368px"> </iframe>
+:::
