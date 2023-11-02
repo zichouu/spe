@@ -19,7 +19,6 @@ module.exports = {
         nav: [
             {text: '首页', link: '/'},
             {text: '开始', link: '/start/jianjie'},
-            {text: '结算速度优化',link: '/d/wfhosts'},
             {text: '链接',items: [
                     {
                         text: '我的网站', items: [
@@ -70,7 +69,7 @@ module.exports = {
                 text: '推荐文章',
                 items: [ 
                     {text: '三傻注意事项', link: '/d/warning'},
-                    {text: '结算速度优化', link: '/d/wfhosts'},
+                    {text: 'Hosts (过时)', link: '/d/wfhosts'},
                 ],
             },
         ],
