@@ -16,6 +16,7 @@
     "update": "yarn upgrade"
   },
   "dependencies": {
+    "taze": "^0.13.3",
     "workbox-cli": "^7.0.0",
     "wrangler": "^3.2.0"
   }
